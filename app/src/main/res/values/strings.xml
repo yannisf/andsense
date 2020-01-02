@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Χρώματα!!!</string>
+    <string name="low_light">Χαμηλή Ένταση</string>
+    <string name="server_state">Κατάσταση</string>
+
+    <string name="protocol">http</string>
+    <string name="server">192.168.1.31</string>
+    <string name="port">5000</string>
+
+</resources>
